@@ -1,5 +1,6 @@
 # My Portfolio
-Welcome to my portfolio! This project showcases my skills, projects, and experiences as a web developer.
+Selamat datang di portofolio saya! Proyek ini menampilkan keahlian, proyek, dan pengalaman saya sebagai pengembang web.
+
 
 ### Weblink: [Live Website](https://yudahasibuann23.web.app/)
 ## Some Images:
